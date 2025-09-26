@@ -9,6 +9,8 @@ The calculated correlations are strong:
 
 This confirms a direct relationship between higher educational levels and improved access to services. Disadvantaged municipalities show both low schooling and limited technological/infrastructural access, evidencing a double social and educational gap.
 
+[[graph.png]]
+
 Advanced municipalities stand out for high average schooling and superior infrastructure/technology, facilitating social and economic development.
 
 ## Hypothesis
